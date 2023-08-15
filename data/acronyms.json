@@ -25,7 +25,7 @@
         "description": "It's a programming interface for HTML and XML documents that presents the elements of a document as JavaScript Objects as a tree-like structure of parent-child relationships",
         "id": "000004",
         "tags": ["browser", "JavaScript", "front-end"],
-        "acro": "GUI"
+        "acro": "DOM"
     },
     {
         "standsFor": "JavaScript Object Notation",
@@ -39,14 +39,14 @@
         "description": "It's a set of techniques on the client side to create asynchronous communication in web applications",
         "id":"000006",
         "tags": ["general", "tooling", "library", "JavaScript", "front-end"],
-        "acro": "JSON"
+        "acro": "AJAX"
     },
     {
         "standsFor": "Immediately Invoked Function Expression",
         "description": "It's a JavaScript function that runs as soon as it was declared",
         "id": "000007",
         "tags": ["JavaScript", "programming language"],
-        "acro": "JSON"
+        "acro": "IIFE"
     },
     {
         "standsFor": "Hyper Text Markup Language",
